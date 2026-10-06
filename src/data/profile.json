@@ -1,10 +1,10 @@
 {
   "name": "Sulav",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
-  "roll": "4447",
+  "photo": "PFP.jpeg",
+  "roll": "26140546",
   "department": "Computer Engineering",
-  "year": "2020",
+  "year": "2026",
   "email": "sulavdyola01@gmail.com",
   "gpa": "4.00",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
@@ -20,8 +20,8 @@
     "React"
   ],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/sulavdyola01-hash",
+    "linkedin": "www.linkedin.com/in/sulav-dyola"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
